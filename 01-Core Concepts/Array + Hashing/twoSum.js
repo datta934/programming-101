@@ -15,6 +15,7 @@ var twoSum = function(nums, target) {
 };   
 
 // using Map
+// Leetcode program -> 1. Two Sum
 var twoSum = function (nums, target) {
     const map = new Map(); // Stores: number -> index
 
